@@ -7,14 +7,10 @@ import './App.css';
 
 const Main = () => {
     return ( < div className = "App" >
-        <
-        Profil / >
-        <
-        Name / >
-        <
-        Address / >
-        <
-        /div>
+       <Profil/>
+        <Name />
+        <Address />
+        </div>
     );
 };
 
